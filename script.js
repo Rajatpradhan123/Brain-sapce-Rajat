@@ -76,20 +76,23 @@ gsap.to("#Nav2", {
 })
 }
 navbar()
-gsap.to(".Page1 video",
-  {
 
-    filter: "blur(20px)",
-    transform: "scaleX(0.85)",
-    scrollTrigger: {
-      trigger: ".Page1",
-      scroller: ".Main",
-      start: "top 0",
-      end: "top -50%",
-      scrub: true
-    }
 
-  })
+
+// gsap.to(".Page1 video",
+//   {
+
+//     filter: "blur(20px)",
+//     transform: "scaleX(0.85)",
+//     scrollTrigger: {
+//       trigger: ".Page1",
+//       scroller: ".Main",
+//       start: "top 0",
+//       end: "top -50%",
+//       scrub: true
+//     }
+
+//   })
 
 
 

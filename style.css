@@ -99,11 +99,7 @@ nav img {
     display: none;
     font-family: archi;
 }
-@keyframes kuch {
-    100%{
-        opacity: 0;
-    }
-}
+
 
 .Page1 video {
     height: 100%;
